@@ -1,0 +1,19 @@
+{
+    "Product": "Boracol BSF – 12",
+    "Image": "boracol bsf 12.png",
+    "Type": "Micronutrient_Mix_Fertilizer(Soil Application)",
+    "TypeDescription": "Some info about this",
+    "boron": "yes",
+    "copper": "yes",
+    "iron": "yes",
+    "chloride": "yes",
+    "manganese": "yes",
+    "molybdenum": "yes",
+    "zinc": "yes",
+    "Description": "It is a Boron based multi micronutrient meant for soil application to short duration crops, cotton, vegetable crops and Grapes.  It contains all six essential micronutrients i.e. Iron, Manganese, Zinc, Copper, Molybdenum and Boron. All the contents are in inorganic form.  Soil nutrient status, crop requirements are given importance while formulating this product. Boracol BSF – 12 can be readily mixed with other NPK fertilizers and applied in the active root zone.",
+    "Recommendation": "We recommend applying 10 kg Boracol BSF – 12 with NPK and SatRite.  For majority of the short duration crops it should be applied once with basal dose or first NPK dose. For Irrigated Cotton, it should be applied @ 10 kg per acre with first NPK dose and the second dose should be coincided with flowering / square formation.  However for Tomato, Brinjal, Chilli and Capsicum, it should be applied twice. The second application of Boracol BSF – 12 should be separated by 45 days from first application, usually at the time of initial Fruit Growth and Development Stage of a crop. For Grapes, it should be applied @ 10 kg per acre with NPK dose at the time of April Pruning and October pruning.",
+    "RelatedProducts": [{"Product": "Boracol BSF – 11",
+    "Image": "boracol_bsf_11.png"},{"Product": "Boracol Ginger",
+    "Image": "boracol ginger.png"},{"Product": "Boracol Permite",
+    "Image": "boracol permite.png"}]
+}

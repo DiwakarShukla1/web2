@@ -1,0 +1,163 @@
+[  
+   {  
+      "Product":"Micnics",
+      "Type":"Biostabilizer",
+      "Image":"micnics.png",
+      "Description":"Micnics™ is an organic based product that is formulated to prevent occurrence of dieback in fruit trees. It is versatile enough to be used for drenching or as a soil application.",
+      "Link":"Micnics.json"
+   },
+   {  
+      "Product":"Sassori",
+      "Type":"Biostabilizer",
+      "Image":"sassori.png",
+      "Description":"SASSORI™ is a complex organic metabolic product which enhances the benefits and effects of applied fertilizers and is an excellent support for plants, which tend to revert to the vegetative growth stage. Use of this product stabilizes and reconditions the internal milieu of the cell.",
+      "Link":"Sassori.json"
+   },
+   {  
+      "Product":"Willase",
+      "Type":"Soil_Conditioner",
+      "Image":"noimage.png",
+      "Description":"Willase™ is a reinforced organic product which improves soil texture, increases the water holding capacity and cation-exchange capacity of the soil and decreases the pH of alkaline soils and total sodium content of highly alkaline soils.",
+      "Link":"Willase.json"
+   },
+   {  
+      "Product":"Satrite",
+      "Type":"Soil_Conditioner",
+      "Image":"noimage.png",
+      "Description":"SatRite™ is an inorganic soil conditioner consisting of secondary nutrients like Calcium, Magnesium, Sulphur, Selenium and Silica. It works by removing the excess salts from the soil and hence improving the soil quality while correcting the pH of the rhizosphere, and is suitable for moderately alkaline soils.",
+      "Link":"Satrite.json"
+   },
+   {  
+      "Product":"Chrocal",
+      "Type":"Soil_Conditioner",
+      "Image":"noimage.png",
+      "Description":"Chrocal is formulated specifically for soils that are degraded due to high levels of salt especially Sodium.",
+      "Link":"Chrocal.json"
+   },
+   {  
+      "Product":"Epsrite",
+      "Type":"Soil_Conditioner",
+      "Image":"noimage.png",
+      "Description":"Epsrite™ is an inorganic soil conditioner meant specifically designed to raise pH of the rhizosphere and hence is suitable for acidic soil rectification.",
+      "Link":"Epsrite.json"
+   },
+   {  
+      "Product":"Borocol 11",
+      "Type":"Micronutrient_Mix_Fertilizer(SA)",
+      "Image":"boracol bsf 11.png",
+      "Description":"For perennial long duration crops like fruit trees",
+      "Link":"Borocol_11.png"
+   },
+   {  
+      "Product":"Borocol 12",
+      "Type":"Micronutrient_Mix_Fertilizer(SA)",
+      "Image":"boracol bsf 12.png",
+      "Description":"For annuals/biennials short duration crops vegetables and for plantation crops",
+      "Link":"Borocol_12.json"
+   },
+   {  
+      "Product":"Borocol BNJ",
+      "Type":"Micronutrient_Mix_Fertilizer(SA)",
+      "Image":"boracol bnj.png",
+      "Description":"Specific soil formulation specifically for banana",
+      "Link":"Borocol_Bnj.json"
+   },
+   {  
+      "Product":"Borocol Permite",
+      "Type":"Micronutrient_Mix_Fertilizer(SA)",
+      "Image":"boracol permite.png",
+      "Description":"For short duration crops & cereals",
+      "Link":"Borocol_Permite.json"
+   },
+   {  
+      "Product":"Borocol Ginger",
+      "Type":"Micronutrient_Mix_Fertilizer(SA)",
+      "Image":"boracol ginger.png",
+      "Description":"Specific soil formulation specifically for root crops like turmeric and ginger",
+      "Link":"Borocol_Ginger.json"
+   },
+   {  
+      "Product":"Rasokal",
+      "Type":"Micronutrient_Mix_Fertilizer(SA)",
+      "Image":"noimage.png",
+      "Description":"Soil formulation specifically for most trees like arecanut and coconut",
+      "Link":"Rasokal.json"
+   },
+   {  
+      "Product":"Micnelf 16",
+      "Type":"Micnelf(FA)",
+      "Image":"noimage.png",
+      "Description":"Cash crops-cotton,sugarcane",
+      "Link":"Micnelf_16.json"
+   },
+   {  
+      "Product":"Micnelf 24",
+      "Type":"Micnelf(FA)",
+      "Image":"micnelf24.png",
+      "Description":"Fruity vegetables like tomatoes, capsicum",
+      "Link":"Micnelf_24.json"
+   },
+   {  
+      "Product":"Micnelf 32",
+      "Type":"Micnelf(FA)",
+      "Image":"noimage.png",
+      "Description":"Horticultural fruits trees like grapes, pomegranate",
+      "Link":"Micnelf_32.json"
+   },
+   {  
+      "Product":"Kiecite DF BNJ",
+      "Type":"Drip_Application(SA)",
+      "Image":"kiecite df bnj.png",
+      "Description":"",
+      "Link":"Kiecite_DF_BNJ.json"
+   },
+   {  
+      "Product":"Kiecite DF CTR",
+      "Type":"Drip_Application(SA)",
+      "Image":"noimage.png",
+      "Description":"",
+      "Link":"Kiecite_DF_CTR.json"
+   },
+   {  
+      "Product":"Kiecite DF GRP",
+      "Type":"Drip_Application(SA)",
+      "Image":"kiecite df grp.png",
+      "Description":"",
+      "Link":"Kiecite_DF_GRP.json"
+   },
+   {  
+      "Product":"Kiecite DF PMG",
+      "Type":"Drip_Application(SA)",
+      "Image":"kiecite df pmg.png",
+      "Description":"",
+      "Link":"Kiecite_DF_PMG.json"
+   },
+   {  
+      "Product":"Kiecite DF FRV",
+      "Type":"Drip_Application(SA)",
+      "Image":"noimage.png",
+      "Description":"",
+      "Link":"Kiecite_DF_FRV.json"
+   },
+      {  
+      "Product":"Micmoll C",
+      "Type":"(FA)",
+      "Image":"micmoll c.png",
+      "Description":"To combat citrus canker.",
+      "Link":"Micmoll_C.json"
+   },
+      {  
+      "Product":"Micmoll G",
+      "Type":"(FA)",
+      "Image":"micmoll g.png",
+      "Description":"To combat powdery mildew issues in grapes",
+      "Link":"Micmoll_G.json"
+   },
+      {  
+      "Product":"Micmoll V",
+      "Type":"(FA)",
+      "Image":"micmoll v.png",
+      "Description":"To combat leaf curl and powdery mildew issues in fruity vegetables",
+      "Link":"Micmoll_V.json"
+   }
+]

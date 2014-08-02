@@ -1,0 +1,49 @@
+{
+	"Type":"Pulses",
+	"Description":"This recommendation is inclusive for pulses such as 'Green Gram (Mung)', 'Black Gram (Udid)', 'Gram (Chana)', 'Red Gram (Arhar)', 'Pea','French Bean (Rajma)'",
+	"Image":[{"Src":"recommendation/pulses/greengram.png","Crop":"Green Gram"},
+			 {"Src":"recommendation/pulses/blackgram.png","Crop":"Black Gram"},
+			 {"Src":"recommendation/pulses/gram.png","Crop":"Gram"},
+			 {"Src":"recommendation/pulses/redgram.png","Crop":"Red Gram"},
+			 {"Src":"recommendation/pulses/pea.png","Crop":"Pea"},
+			 {"Src":"recommendation/pulses/frenchbean.png","Crop":"French Bean"}],
+	"Product":{"Seed Treatment" : "Kiecite – G",
+			   "Fertilizer Dose through soil" : "'NPK','Boracol Permite'",
+			   "Spray Schedule" : "'Kiecite – G' / 'Miczink' / 'Kainase'"
+			  },
+	"Recommendations":
+	{
+	"Through Seed":[
+					"1)25 ml Kiecite – G in 10 lit water and soak seeds in it for 25-30 minutes.",
+					"2)Remove empty, light weighted, pest infected, malformed and defective seeds.",
+ 					"3)spread the treated seeds for shade drying.",
+ 					"Note : Kiecite – G seed treatment improves germination, tends to profuse rooting and healthier crop stand in initial vegetative growth stage of a crop."
+ 					],
+ 	"Through Soil" :["NPK dose + Boracol Permite (10 kg) per acre"],
+ 	"Through Spray" : [ 
+					"1)Spray the crop with 0.5% Kiecite – G / Miczink / Kainase by dissolving 500 ml of product in 100 lit water. First spray should be given 12-15 days after germination.",
+					"2)A fine mist spray in early morning hours or late evening is recommended.",
+					"3)Take 2-3 subsequent sprays of Kiecite-G with same concentration each at 15 days interval.",
+					"4)The last and fourth spray should be given in grain milking stage or pre-maturity stage of a crop.",
+					"Note : Do not mix insecticide, pesticide or any plant protection chemical with Kiecite-G."
+ 					]
+
+	},
+	"Deficiencies": {"Pulses":{"Description":"Some info on the crop",
+							   "Images":[{"Src":"recommendation/pulses/1.png","Info":"caption"},
+										 {"Src":"recommendation/pulses/2.png","Info":"caption"},
+										 {"Src":"recommendation/pulses/3.png","Info":"Caption"},
+										 {"Src":"recommendation/pulses/4.png","Info":"Caption"},
+										 {"Src":"recommendation/pulses/5.png","Info":"Caption"},
+										 {"Src":"recommendatiopigeonpean/pulses/6.png","Info":"Caption"}
+										]
+							   },
+					 "Pigeon Pea":{"Description":"B phosopdef -",
+							   "Images":[{"Src":"recommendation/pigeonpea/1.png","Info":"B phosprous deficiency"},
+										 {"Src":"recommendation/pigeonpea/2.png","Info":"caption"},
+										 {"Src":"recommendation/pigeonpea/3.png","Info":"Caption"},
+										 {"Src":"recommendation/pigeonpea/4.png","Info":"Caption"}
+										]
+							   }
+					}
+}

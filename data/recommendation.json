@@ -1,0 +1,36 @@
+[
+{
+	"Title":"Pulses",
+	"Image":"pulses.jpg",
+	"Description":"This recommendation is inclusive for pulses such as 'Green Gram (Mung)', 'Black Gram (Udid)', 'Gram (Chana)', 'Red Gram (Arhar)', 'Pea','French Bean (Rajma)' ",
+	"Recommend":{"Seed Treatment":"Kiecite – G",
+	"Fertilizer Dose through soil":"'NPK','Boracol Permite'",
+	"Spray Schedule":"'Kiecite – G / Miczink / Kainase'"}		
+},
+{
+	"Title":"Cereals",
+	"Image":"cereals.jpg",
+	"Description":"This recommendation is inclusive for pulses such as 'Paddy','Wheat','Maize','Jowar (Sorghum)', 'Bajra (Pearl Millet)'",
+	"Recommend":{"Seed Treatment":"Kiecite – G",
+	"Fertilizer Dose through soil":"'NPK','Boracol Permite'",
+	"Spray Schedule":"'Kiecite – G / Miczink / Kainase'"}		
+},
+{
+	"Title":"Oilseeds",
+	"Image":"oilseeds.jpg",
+	"Description":"This recommendation is inclusive for pulses such as 'Groundnut', 'Soybean', 'Sunflower', 'Sesame', 'MuSeed Treatmentard'",
+	"Recommend":{"Seed Treatment":"Kiecite – G",
+	"Fertilizer Dose through soil":"'NPK','Boracol Permite'",
+	"Spray Schedule":"'Kiecite – G / Miczink / Kainase'"}		
+},
+{
+	"Title":"Vegetables",
+	"Image":"vegetables.jpg",
+	"Description":"This recommendation is inclusive for pulses such as 'Tomato', 'Chilli' ,'Capsicum' ,'Brinjal'",
+	"Recommend":{"Seedling Nursery":"Kiecite – G",
+	"Through Soil":"'NPK','SatRite','Boracol BSF – 12'",
+	"Through Spray":"'Micnelf MS – 32','Micmoll-V','Kiecite-G'",
+	"Through Drip":"'Kiecite DF FRV','Potassium Schoenite'"}		
+}
+
+]
